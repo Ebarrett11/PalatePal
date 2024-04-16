@@ -2,11 +2,11 @@
 This is a mobile application that allows students at Michigan State University to view and leave reviews for the dishes at supported dining halls.
 
 **Motivation**\
-The food quality at MSU dining halls is often of inconistent quality. By crowd sourcing reviews students can know before they ask for a dish, that the dish will be good. This allows for a reduciton in food waste and happier students.
+The food quality at MSU dining halls is often of inconsistent quality. By crowd-sourcing reviews, students can know before they ask for a dish, that the dish will be good. This allows for a reduction in food waste and happier students.
 
 **Functionality**
 - Log in / Register (Authenticated with Firebase)
-- Select dining hall and view meals for current day/time
+- Select the dining hall and view meals for the current day/time
 - View/create reviews on every meal 
 - Ability to easily get directions to any dining hall and a map view of all dining halls
 \n
