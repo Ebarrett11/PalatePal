@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Palatepal</string>
+    <string name="home_button">home_button</string>
+    <string name="map_button" />
+    <string name="home_butto" />
+    <string name="navigation_message" />
+    <string name="sidebar_button" />
+    <string name="sidebar_button1" />
+    <string name="TEMP_BUTTON">TEMP_BUTTON</string>
+    <string name="home" />
+    <string name="select_dining_hall">Select Dining Hall</string>
+    <string name="dining_hall">Case Hall</string>
+    <string name="back_button_description">Button to go to the previous screen</string>
+    <string name="gps_button_description">Button to go see the dining hall on the map</string>
+    <string name="calendar_button_description">Button to go change the current date</string>
+    <string name="breakfast_button">Breakfast</string>
+    <string name="lunch_button">Lunch</string>
+    <string name="dinner_button">Dinner</string>
+    <string name="sort_by_text">Sort by:</string>
+    <string-array name="sort_by_list">
+        <item>Highest Rated</item>
+        <item>Lowest Rated</item>
+        <item>Most Rated</item>
+        <item>Least Rated</item>
+    </string-array>
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
+    <string name="username">UserName*</string>
+    <string name="name_reg">User Name*</string>
+
+
+    <string name="email_reg">Email*</string>
+
+    <string name="pwd_reg">Password*</string>
+    <string name="welcome_back">Welcome back, Spartan!</string>
+    <string name="welcome">Welcome, Spartan!</string>
+    <string name="log_in">Log In</string>
+    <string name="signinbtn_des">Button to Sign In</string>
+    <string name="signupbtn_des">Button to Sign Up</string>
+    <string name="no_account">Don\'t have Account?</string>
+    <string name="signup">Sign Up</string>
+    <string name="logo_des">Logo for PalatePal</string>
+    <string name="register_agreement">I agree to the Term of Service and Privacy Policy</string>
+    <string name="temp_button">TEMP_ BUTTON</string>
+    <string name="textview">TextView</string>
+    <string name="logo">Logo</string>
+    <string name="post_button">Post Button</string>
+    <string name="case_hall">Case Hall</string>
+    <string name="map_placeholder_description">map</string>
+    <string name="leave_review_text">Leave Review</string>
+    <string name="food_name_default">Insert Name Here</string>
+    <string name="top_review_defualt">No reviews, be the first by reviewing this dish</string>
+    <string name="num_reviews">No Reviews</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="leaveReview">Leave a review about this dish below:</string>
+    <string name="leaveReviewPlaceholder">What did you like or dislike?</string>
+    <string name="reviewUser">Insert Username Here</string>
+    <string name="reviewText">Insert review text here</string>
+    <string name="noLikes">Be the first to like this review</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navi">Close</string>
+    <string name="remember">Remember me</string>
+    <string name="changeemail">Change Email: "</string>
+    <string name="changename">Change Username: "</string>
+    <string name="changepwd">Change Password: "</string>
+    <string name="apply_btn">Apply Change</string>
+    <string name="userinfo">Your Account Info:</string>
+    <string name="changeprmt">Change Your Account:</string>
+    <string name="othersText">Here is what others had to say about this dish:</string>
+</resources>
