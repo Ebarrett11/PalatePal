@@ -1,4 +1,4 @@
-*This is an older version of the project and will be updated soon
+*This is a version of the project that is 6 weeks out of date. Missng some important functionality and bug fixes. Will be updated in a few weeks.
 
 **Abstract**\
 This is a mobile application that allows students at Michigan State University to view and leave reviews for the dishes at supported dining halls.
