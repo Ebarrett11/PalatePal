@@ -26,6 +26,3 @@ The food quality at MSU dining halls is often of inconsistent quality. By crowd-
 
 
 
-[Google Drive Hosted Short Demo Video](https://drive.google.com/file/d/11GG-GWh4X5JW7UplRV7_tdUppKPLXQtF/view?usp=sharing)
-
-
